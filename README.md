@@ -13,7 +13,7 @@
 - Audiobooks: [Google](https://play.google.com/store/books/collection/cluster?gsr=ShmCARYKEgoOQVFBQUFFRFNFbjVTdk0QERAE:S:ANO1ljIJnRM&hl) & [Storytel](https://www.storytel.com/in/publishers/et-tu-code-54022)
 - My courses: [Udemy](https://www.udemy.com/user/akshay-khanna-79/)
 
-## Wanna reach out to me? Click on below links
+## Reach out or know more about me on
 
 - Email: [akshay9911102163@gmail.com](akshay9911102163@gmail.com)
 
