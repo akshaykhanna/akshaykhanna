@@ -1,13 +1,16 @@
 <h1 align="center">Hello, I am Akshay Khanna</h1>
 <h2 align="center">A technology agnostic senior full stack engineer</h2>
 
-
 ## Things I am passionate about
 
 - Full stack development
 - High Level Architecture & Frontend Design 
 - Clean code & best engineering practices (unit testing, TDD & pair programming)
 - Currently building a pet project on all in one Gen AI content creation system using LLMs & AI Models such as Llama 3 (Ollama), Stable Diffusion & Meta AudioCraft
+
+## Checkout my content
+- Ebooks under pen names: [Etu Tu Code](https://www.amazon.in/s?i=digital-text&rh=p_27%3AEt+Tu+Code) & [DSA Shots](https://www.amazon.in/s?i=digital-text&rh=p_27%3ADSA+Shots) 
+- My courses: [Udemy](https://www.udemy.com/user/akshay-khanna-79/)
 
 ## Wanna reach out to me? Click on below links
 
