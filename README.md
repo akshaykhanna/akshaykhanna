@@ -9,7 +9,7 @@
 - Currently building a side project on all in one Gen AI content creation system using LLMs & AI Models such as Llama 3 (Ollama), Stable Diffusion & Meta AudioCraft
 
 ## Checkout my content
-- Ebooks under pen names: [Etu Tu Code](https://www.amazon.in/s?i=digital-text&rh=p_27%3AEt+Tu+Code) & [DSA Shots](https://www.amazon.in/s?i=digital-text&rh=p_27%3ADSA+Shots)
+- Ebooks under pen names: [Etu Tu Code](https://www.amazon.in/s?i=digital-text&rh=p_27%3AEt+Tu+Code), [DSA Shots](https://www.amazon.in/s?i=digital-text&rh=p_27%3ADSA+Shots) & [Fun Tech](https://www.amazon.in/s?i=digital-text&rh=p_27%3AFun+Tech)
 - Audiobooks: [Google](https://play.google.com/store/books/collection/cluster?gsr=ShmCARYKEgoOQVFBQUFFRFNFbjVTdk0QERAE:S:ANO1ljIJnRM&hl) & [Storytel](https://www.storytel.com/in/publishers/et-tu-code-54022)
 - My courses: [Udemy](https://www.udemy.com/user/akshay-khanna-79/)
 
@@ -39,10 +39,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="golang" width="40" height="40"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
@@ -67,10 +67,12 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>  
  
-<h3 align="left">DevOps</h3>
+<h3 align="left">Cloud</h3>
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcp" width="40" height="40"/> </a> 
 </p>
   
 <p>
