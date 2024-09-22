@@ -6,7 +6,7 @@
 - Full stack development
 - High Level Architecture & Frontend Design 
 - Clean code & best engineering practices (unit testing, TDD & pair programming)
-- Currently building a side project on all in one Gen AI content creation system using LLMs & AI Models such as Llama 3 (Ollama), Stable Diffusion & Meta AudioCraft
+- Currently building a side project on all in one Gen AI content creation system using various LLMs & AI Models.
 
 ## Checkout my content
 - Ebooks under pen names: [Etu Tu Code](https://www.amazon.in/s?i=digital-text&rh=p_27%3AEt+Tu+Code), [DSA Shots](https://www.amazon.in/s?i=digital-text&rh=p_27%3ADSA+Shots) & [Fun Tech](https://www.amazon.in/s?i=digital-text&rh=p_27%3AFun+Tech)
