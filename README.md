@@ -8,6 +8,13 @@
 - Clean code & best engineering practices (unit testing, TDD & pair programming)
 - Currently building a side project on all in one Gen AI content creation system using various LLMs & AI Models.
 
+## My repo's on LLD or OOD using domain modelling & object oriented principles
+  - [Parking Lot](https://github.com/akshaykhanna/ParkingLot)
+  - [Library Management](https://github.com/akshaykhanna/LibraryManagement)
+  - [Crowdfunding Fullstack](https://github.com/akshaykhanna/crowdfunding-fullstack)
+  - [Postman Clone](https://github.com/akshaykhanna/PostmanClone)
+  - [Cron Expression Parser](https://github.com/akshaykhanna/Cron-Expression-Parser)
+
 ## Checkout my content
 - Ebooks under pen names: [Etu Tu Code](https://www.amazon.in/s?i=digital-text&rh=p_27%3AEt+Tu+Code), [DSA Shots](https://www.amazon.in/s?i=digital-text&rh=p_27%3ADSA+Shots) & [Fun Tech](https://www.amazon.in/s?i=digital-text&rh=p_27%3AFun+Tech)
 - Audiobooks: [Google](https://play.google.com/store/books/collection/cluster?gsr=ShmCARYKEgoOQVFBQUFFRFNFbjVTdk0QERAE:S:ANO1ljIJnRM&hl) & [Storytel](https://www.storytel.com/in/publishers/et-tu-code-54022)
