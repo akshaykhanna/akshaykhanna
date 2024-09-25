@@ -8,7 +8,7 @@
 - Clean code & best engineering practices (unit testing, TDD & pair programming)
 - Currently building a side project on all in one Gen AI content creation system using various LLMs & AI Models.
 
-## My repo's on LLD or OOD using domain modelling & object oriented principles
+## My repo's on LLD or OOD using domain modelling & object oriented principles & full stack apps
   - [Parking Lot](https://github.com/akshaykhanna/ParkingLot)
   - [Library Management](https://github.com/akshaykhanna/LibraryManagement)
   - [Crowdfunding Fullstack](https://github.com/akshaykhanna/crowdfunding-fullstack)
