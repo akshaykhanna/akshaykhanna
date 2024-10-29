@@ -15,11 +15,6 @@
   - [Postman Clone](https://github.com/akshaykhanna/PostmanClone)
   - [Cron Expression Parser](https://github.com/akshaykhanna/Cron-Expression-Parser)
 
-## Checkout my content
-- Ebooks under pen names: [Etu Tu Code](https://www.amazon.in/s?i=digital-text&rh=p_27%3AEt+Tu+Code) & [DSA Shots](https://www.amazon.in/s?i=digital-text&rh=p_27%3ADSA+Shots)
-- Audiobooks: [Google](https://play.google.com/store/books/collection/cluster?gsr=ShmCARYKEgoOQVFBQUFFRFNFbjVTdk0QERAE:S:ANO1ljIJnRM&hl) & [Storytel](https://www.storytel.com/in/publishers/et-tu-code-54022)
-- My courses: [Udemy](https://www.udemy.com/user/akshay-khanna-79/)
-
 ## Reach out or know more about me on
 
 - Email: [akshay9911102163@gmail.com](akshay9911102163@gmail.com)
