@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I am Akshay Khanna</h1>
-<h2 align="center">A technology agnostic lead full stack engineer with 9+ yoe</h2>
+<h2 align="center">A technology agnostic lead full stack engineer</h2>
 
 ## Things I am passionate about
 
