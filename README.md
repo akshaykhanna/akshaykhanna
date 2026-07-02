@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 
-- 💻 **Lead Full Stack Engineer** passionate about High-Level Architecture & Frontend Design.
+- 💻 **Lead AI Full Stack Engineer** passionate about High-Level Architecture & Frontend Design.
 - 🛠️ Dedicated to **Clean Code** & best engineering practices: Unit Testing, **TDD**, and Pair Programming.
 - 🤖 Currently building an **All-in-One Gen AI** content creation system leveraging various LLMs & AI Models.
 
